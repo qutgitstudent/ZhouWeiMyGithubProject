@@ -7,7 +7,7 @@
 https://docs.qq.com/sheet/DT0dqdGd3SFVPdHpJ?c=G3A0A0
 
 ## 存在的问题
-1. windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub，该文件在git安装目录下的`usr/bin`中，需要将其加入到path中，具体操作步骤可以参照以下文章：
+### windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub，该文件在git安装目录下的`usr/bin`中，需要将其加入到path中，具体操作步骤可以参照以下文章：
 [windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub文件](https://blog.csdn.net/a419419/article/details/80021684)
 
 
