@@ -7,9 +7,9 @@
 https://docs.qq.com/sheet/DT0dqdGd3SFVPdHpJ?c=G3A0A0
 
 ## 存在的问题
-- windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub，该文件在git安装目录下的`usr/bin`中，需要将其加入到path中，具体操作步骤参照百度网盘中的录像，可以参照以下文章：
+- windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub，该文件在git安装目录下的`usr/bin`中，需要将其加入到path中，具体操作步骤参照百度网盘中的录像`找不到ssh-keygen命令.mp4`，可以参照以下文章：
 [windows下ssh-keygen 不是内部或外部命令和打开id_rsa.pub文件](https://blog.csdn.net/a419419/article/details/80021684)
-- 对于无法访问github网站的同学，一般是由于运营商的问题导致访问速度比较慢，老师这边电信的访问速度正常，如果访问不正常可以科学上网，或者可以使用国内的替换网站[码云](https://gitee.com/)，gitee操作过程在百度网盘中有录像，和github几乎一样，界面换成中文的，能够在gitee建立仓库的，也可以把gitee项目的提交日志提交上来
+- 对于无法访问github网站的同学，一般是由于运营商的问题导致访问速度比较慢，老师这边电信的访问速度正常，如果访问不正常可以科学上网，或者可以使用国内的替换网站[码云](https://gitee.com/)，gitee操作过程在百度网盘中有录像`创建基于gitee的毕设项目.mp4`，和github几乎一样，界面换成中文的，能够在gitee建立仓库的，也可以把gitee项目的提交日志提交上来
 
 
 1. 安装git
