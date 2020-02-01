@@ -34,4 +34,4 @@ qtech1234!!
 
 7. IDEA中进行git操作
 
-这是可以仍旧使用syn.bat进行同步，也可以通过IDEA进行操作，直接进行commit提交至服务器操作
+这是可以仍旧使用`syn.bat`进行同步，也可以通过IDEA进行操作，直接进行commit提交至本地仓库操作，然后使用push更新至github远程仓库。不是IDEA操作的文件，比如这里的本文文件就不会被IDEA更新至github，仍然需要使用`syn.bat`进行同步
