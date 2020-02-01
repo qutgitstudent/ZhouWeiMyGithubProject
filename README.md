@@ -36,3 +36,5 @@ qtech1234!!
 
 这是可以仍旧使用`syn.bat`进行同步，也可以通过IDEA进行操作，直接进行commit提交至本地仓库操作，然后使用push更新至github远程仓库。不是IDEA操作的文件，比如这里的本文文件就不会被IDEA更新至github，仍然需要使用`syn.bat`进行同步。大家可以把自己的毕设论文word文件放到这里，每次可以自动保存最新的版本。
 再演示一次由IDEA进行更新操作。
+
+8. 最后把建好的github项目的提交日志页面，如`https://github.com/qutgitstudent/ZhouWeiMyGithubProject/commits/master`汇报上来，用以老师进行检查。
