@@ -1,4 +1,4 @@
-# 创建基于github的毕设项目
+# 创建基于github或者gitee的毕设项目
 # 请各位同学观看录像，并按照录像中的步骤在github上创建自己的毕设项目，最后将自己项目的项目的提交日志页面提交上来
 ## 操作录像
 链接: https://pan.baidu.com/s/1umHrZVtgAkFtcIviGRPMDw 提取码: 8dbk
